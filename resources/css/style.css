@@ -6,3 +6,7 @@ h1 {
     text-align: center;
     background-image: url("../images/pattern.jpeg");
 }
+
+h2 {
+    background-color: mediumspringgreen;
+}
